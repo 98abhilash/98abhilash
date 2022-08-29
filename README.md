@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhilash Shah
-- 👀 I’m interested in developing Machine Learning based Applications
-- 🌱 I’m currently learning Machine Learning using Python from UpGrad through their Executive PG Programme
-- 💞️ I’m looking to collaborate on projects that can help me to build my portfolio and contribute to the open-source community
+- 👋 Hi, I’m Abhilash Shah.
+- 👀 I’m interested in Developing Machine Learning Solutions
+- 🌱 Currently working as a Machine Learning Engineer specialising in Deep Learning and Computer Vision
+- 💞️ I’m looking to collaborate on projects that can help grow
 - 📫 You can reach me at 98abhilash@gmail.com or through Linkedin at https://www.linkedin.com/in/shah-abhilash/
 
 <!---
