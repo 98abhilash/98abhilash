@@ -32,14 +32,14 @@ I'm a passionate Deep Learning and Computer Vision Engineer with 4+ years of ext
 - Structuring Machine Learning Projects - deeplearning.ai
 
 ### 💼 Professional Experience
+
+**Senior Computer Vision Engineer** @ **Quidich Innovation Labs** (Jul 2025 - Present)
+
 **SDE-2 - Computer Vision Engineer** @ **AjnaLens** (Dec 2023 - Jun 2025)  
 Led development of advanced POCs including custom object detection, text-to-3D generative models, streaming solutions, and 6DoF pose estimation.
 
 **Computer Vision Engineer** @ **AjnaLens** (Dec 2022 - Dec 2023)  
 Developed innovative computer vision solutions for AR/XR applications.
-
-**Software Developer** @ **Celusion Technologies** (Oct 2020 - Dec 2022)  
-Built production-grade software solutions and gained foundational experience.
 
 ### 🌟 Research & Innovation
 Focused on pushing the boundaries of 3D computer vision, generative AI, and real-time processing systems. Actively exploring state-of-the-art techniques in neural rendering, 3D reconstruction, and spatial computing.
