@@ -85,9 +85,9 @@ My core strength lies in **system-level architecture** — designing multi-camer
 ---
 
 ## 📫 Connect
-
-📧 98abhilash@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/shah-abhilash/
+📧 Mail: 98abhilash@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shah-abhilash/  
+🌐 Website: https://98abhilash.github.io/
 
 ---
 
